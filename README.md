@@ -4,7 +4,7 @@
 
 [Cooper Terrones](https://github.com/coopterrones)
 
-[Deploy Site](https://coopterrones.github.io/rancid-tomatoes)
+[Deploy Site](https://rancid-tomatoes.vercel.app/)
 
 [Link to server repo](https://github.com/coopterrones/rancid-tomatillos-server)
 
