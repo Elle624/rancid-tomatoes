@@ -4,9 +4,9 @@
 
 [Cooper Terrones](https://github.com/coopterrones)
 
-[Deploy Site](https://coopterrones.github.io/rancid-tomatoes)
+[Deploy Site](https://rancid-tomatoes.vercel.app/)
 
-[Link to server repo](https://github.com/coopterrones/rancid-tomatillos-server)
+[Link to server repo](https://github.com/Elle624/rancid-tomatillos-server)
 
 Rancid Tomatillos MVP; Paired Project; Module 3
 
