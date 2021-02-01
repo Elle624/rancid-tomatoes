@@ -1,12 +1,12 @@
 # Rancid Tomatoes
 
-[Elle Li](https://github.com/Elle624)
+[Elle Li](https://github.com/yiranli624)
 
 [Cooper Terrones](https://github.com/coopterrones)
 
 [Deploy Site](https://rancid-tomatoes.vercel.app/)
 
-[Link to server repo](https://github.com/Elle624/rancid-tomatillos-server)
+[Link to server repo](https://github.com/yiranli624/rancid-tomatillos-server)
 
 Rancid Tomatillos MVP; Paired Project; Module 3
 
